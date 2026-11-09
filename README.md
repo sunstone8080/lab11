@@ -1,3 +1,5 @@
+https://youtu.be/YOn6Q4ZmaVU
+
 How does each pathfinding algorithms calculate and prioritize paths?
 
 BFS - The list is processed by exploring the cell that was added first.  fewest steps with cell cost ignored
